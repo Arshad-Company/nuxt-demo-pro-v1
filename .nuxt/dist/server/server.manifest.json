@@ -1,0 +1,31 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/logo.js": "components/logo.js",
+    "pages/_year/_month.js": "pages/_year/_month.js",
+    "pages/about/index.js": "pages/about/index.js",
+    "pages/blogs/_post.js": "pages/blogs/_post.js",
+    "pages/blogs/index.js": "pages/blogs/index.js",
+    "pages/category/_category.js": "pages/category/_category.js",
+    "pages/common/homecarusal.js": "pages/common/homecarusal.js",
+    "pages/common/sidebar.js": "pages/common/sidebar.js",
+    "pages/index backup.js": "pages/index backup.js",
+    "pages/index.js": "pages/index.js",
+    "pages/user/_id/index.js": "pages/user/_id/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/logo.js": "components/logo.js.map",
+    "pages/_year/_month.js": "pages/_year/_month.js.map",
+    "pages/about/index.js": "pages/about/index.js.map",
+    "pages/blogs/_post.js": "pages/blogs/_post.js.map",
+    "pages/blogs/index.js": "pages/blogs/index.js.map",
+    "pages/category/_category.js": "pages/category/_category.js.map",
+    "pages/common/homecarusal.js": "pages/common/homecarusal.js.map",
+    "pages/common/sidebar.js": "pages/common/sidebar.js.map",
+    "pages/index backup.js": "pages/index backup.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/user/_id/index.js": "pages/user/_id/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

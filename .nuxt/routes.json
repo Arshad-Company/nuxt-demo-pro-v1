@@ -1,0 +1,62 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index"
+  },
+  {
+    "name": "blogs",
+    "path": "/blogs",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\blogs\\\\index.vue",
+    "chunkName": "pages/blogs/index"
+  },
+  {
+    "name": "index backup",
+    "path": "/index%20backup",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\index backup.vue",
+    "chunkName": "pages/index backup"
+  },
+  {
+    "name": "common-homecarusal",
+    "path": "/common/homecarusal",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\common\\\\homecarusal.vue",
+    "chunkName": "pages/common/homecarusal"
+  },
+  {
+    "name": "common-sidebar",
+    "path": "/common/sidebar",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\common\\\\sidebar.vue",
+    "chunkName": "pages/common/sidebar"
+  },
+  {
+    "name": "blogs-post",
+    "path": "/blogs/:post",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\blogs\\\\_post.vue",
+    "chunkName": "pages/blogs/_post"
+  },
+  {
+    "name": "category-category",
+    "path": "/category/:category?",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\category\\\\_category.vue",
+    "chunkName": "pages/category/_category"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\user\\\\_id\\\\index.vue",
+    "chunkName": "pages/user/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "year-month",
+    "path": "/:year/:month?",
+    "component": "D:\\\\Pendrive\\\\Xiteb\\\\Nuxt Production\\\\Heroku\\\\v1\\\\pages\\\\_year\\\\_month.vue",
+    "chunkName": "pages/_year/_month"
+  }
+]
